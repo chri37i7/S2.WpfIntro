@@ -1,0 +1,28 @@
+﻿<Window x:Class="S2.WpfIntro.Exercise08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:S2.WpfIntro.Exercise08"
+        mc:Ignorable="d"
+        Title="Utrolig Brugbart Program"
+        Height="450"
+        Width="600">
+    <Grid>
+        <TextBlock x:Name="textBoxRepeater"
+                   HorizontalAlignment="Center"
+                   Margin="0,124,0,0"
+                   Text="Tekst Box Gentager"
+                   TextWrapping="Wrap"
+                   VerticalAlignment="Top" />
+        <TextBox x:Name="TextBox"
+                 HorizontalAlignment="Center"
+                 Margin="0,199,0,0"
+                 Text=""
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"
+                 TextChanged="TextBox_TextChanged" />
+
+    </Grid>
+</Window>

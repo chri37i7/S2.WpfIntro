@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise06", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise07", "S2.WpfIntro.Exercise07\S2.WpfIntro.Exercise07.csproj", "{FBA5FD1A-F052-4574-B7F4-61887AD13BF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise08", "S2.WpfIntro.Exercise08\S2.WpfIntro.Exercise08.csproj", "{F9338F24-DE4E-46F3-A549-14C362579751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FBA5FD1A-F052-4574-B7F4-61887AD13BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA5FD1A-F052-4574-B7F4-61887AD13BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA5FD1A-F052-4574-B7F4-61887AD13BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9338F24-DE4E-46F3-A549-14C362579751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9338F24-DE4E-46F3-A549-14C362579751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9338F24-DE4E-46F3-A549-14C362579751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9338F24-DE4E-46F3-A549-14C362579751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
