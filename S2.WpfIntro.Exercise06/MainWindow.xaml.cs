@@ -27,7 +27,7 @@ namespace S2.WpfIntro.Exercise06
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show($"Hej {userInput.Text}");
+            MessageBox.Show($"Hej {userInput.Text}, og velkommen til programmet.");
         }
     }
 }
