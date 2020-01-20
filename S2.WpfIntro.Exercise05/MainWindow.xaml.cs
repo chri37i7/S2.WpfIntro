@@ -30,17 +30,17 @@ namespace S2.WpfIntro.Exercise05
         private void Catch_Button_Click(object sender, RoutedEventArgs e)
         {
             int positionLeft;
-            int positionRight;
+            int positionTop;
 
 
             Random rndNumGen = new Random();
-            Thickness position = catchButton.Margin;
-
-            positionLeft = rndNumGen.Next(0, 900);
-            positionRight = rndNumGen.Next(0, 900 - positionLeft);
 
 
-            catchButton.Margin = new Thickness(positionLeft, 0, positionRight, 0);
+            positionLeft = rndNumGen.Next(40, 1800);
+            positionTop = rndNumGen.Next(40, 700);
+
+
+            catchButton.Margin = new Thickness(positionLeft, positionTop, 0, 0);
 
 
             counter++;

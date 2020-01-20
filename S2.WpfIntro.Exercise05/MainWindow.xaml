@@ -21,7 +21,8 @@
                 Foreground="Red"
                 BorderBrush="Blue"
                 RenderTransformOrigin="6.25,0.638"
-                Margin="487,0,0,0" />
+                Margin="500,0,0,0"
+                FontFamily="Comic Sans MS" />
         <TextBlock HorizontalAlignment="Center"
                    Margin="0,28,0,0"
                    Text="Antal Tryk:"
