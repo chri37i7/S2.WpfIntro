@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise01", "S2.WpfIntro.Exercise01\S2.WpfIntro.Exercise01.csproj", "{B4515337-F136-4AF0-B20F-E02C6ADA8CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2.WpfIntro.Exercise01", "S2.WpfIntro.Exercise01\S2.WpfIntro.Exercise01.csproj", "{B4515337-F136-4AF0-B20F-E02C6ADA8CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise02", "S2.WpfIntro.Exercise02\S2.WpfIntro.Exercise02.csproj", "{C25729B0-5125-4BE7-AA42-29381F8F7D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2.WpfIntro.Exercise02", "S2.WpfIntro.Exercise02\S2.WpfIntro.Exercise02.csproj", "{C25729B0-5125-4BE7-AA42-29381F8F7D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise03", "S2.WpfIntro.Exercise03\S2.WpfIntro.Exercise03.csproj", "{95BCC926-B5D5-48E6-821E-CB2E538D3658}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2.WpfIntro.Exercise03", "S2.WpfIntro.Exercise03\S2.WpfIntro.Exercise03.csproj", "{95BCC926-B5D5-48E6-821E-CB2E538D3658}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise04", "S2.WpfIntro.Exercise04\S2.WpfIntro.Exercise04.csproj", "{7E60C17A-F65C-4710-B7DB-DE6D52307535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2.WpfIntro.Exercise04", "S2.WpfIntro.Exercise04\S2.WpfIntro.Exercise04.csproj", "{7E60C17A-F65C-4710-B7DB-DE6D52307535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise05", "S2.WpfIntro.Exercise05\S2.WpfIntro.Exercise05.csproj", "{98A9119E-987C-419B-9E92-99E14DFB90CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2.WpfIntro.Exercise05", "S2.WpfIntro.Exercise05\S2.WpfIntro.Exercise05.csproj", "{98A9119E-987C-419B-9E92-99E14DFB90CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2.WpfIntro.Exercise06", "S2.WpfIntro.Exercise06\S2.WpfIntro.Exercise06.csproj", "{C7022327-145C-494E-8BE2-AD1F202FAF19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{98A9119E-987C-419B-9E92-99E14DFB90CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A9119E-987C-419B-9E92-99E14DFB90CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A9119E-987C-419B-9E92-99E14DFB90CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7022327-145C-494E-8BE2-AD1F202FAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7022327-145C-494E-8BE2-AD1F202FAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7022327-145C-494E-8BE2-AD1F202FAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7022327-145C-494E-8BE2-AD1F202FAF19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
