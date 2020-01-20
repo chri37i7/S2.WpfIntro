@@ -20,9 +20,17 @@ namespace S2.WpfIntro.Exercise03
     /// </summary>
     public partial class MainWindow : Window
     {
+        int counter;
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            counter++;
+            numberCount.Text = counter.ToString();
         }
     }
 }
