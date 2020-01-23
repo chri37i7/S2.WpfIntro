@@ -9,6 +9,12 @@
         Height="450"
         Width="600">
     <Grid>
-
+        <Canvas>
+            <Canvas.Background>
+                <ImageBrush x:Name="canvasBackgroundImage"
+                            ImageSource="C:\Users\chri37i7\Pictures\image_2.png"
+                            Stretch="Fill" />
+            </Canvas.Background>
+        </Canvas>
     </Grid>
 </Window>

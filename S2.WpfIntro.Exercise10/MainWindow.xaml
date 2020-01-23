@@ -14,7 +14,7 @@
     <Canvas>
         <Canvas.Background>
             <ImageBrush x:Name="canvasBackgroundImage"
-                        ImageSource="C:\Users\chri37i7\Desktop\background_overlayed.png"
+                        ImageSource="C:\Users\chri37i7\Pictures\image_2.png"
                         Stretch="Fill" />
         </Canvas.Background>
         <Button x:Name="loginButton"
